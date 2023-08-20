@@ -25,6 +25,8 @@
 # jsploit
 A node.js UWP Roblox exploit written in JavaScript for maximum comedic effect.
 
+Based off of [uwp_executor](https://github.com/Spoorloos/uwp_executor/tree/main)
+
 Was not intended for actual usage but instead a fun project.
 
 ## Features
