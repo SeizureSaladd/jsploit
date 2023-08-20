@@ -10,6 +10,16 @@
   <img src="https://img.shields.io/github/stars/SeizureSaladd/jsploit" alt="GitHub Repo stars">
 </p>
 
+<p align="center">
+  <a href="#jsploit">jsploit</a> •
+  <a href="#features">Features</a> •
+  <a href="#prerequisites">Prerequisites</a> •
+  <a href="#getting-started">Getting Started</a> •
+  <a href="#contributing">Contributing</a> •
+  <a href="#license">License</a> •
+</p>
+
+
 ---
 
 # jsploit
@@ -44,7 +54,7 @@ node .
 ```
 
 # Contributing
-Contributions are welcome. If you make it betterer open a pull request.
+Contributions are welcome. If you make it betterer open a pull request. Just note that you must change the `RuntimeLibrary` in the node-gyp generated `.vcxproj` file to `MultiThreadedDLL` or else Luau will not work.
 
 # License
 This project is licensed under [GNU GPLv3](LICENSE) which means you're free to do what you want except distributing closed source versions. (NO SKIDS ALLOWED!!!1111!!)
