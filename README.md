@@ -29,6 +29,8 @@ Based off of [uwp_executor](https://github.com/Spoorloos/uwp_executor/tree/main)
 
 Was not intended for actual usage but instead a fun project.
 
+HUGE thanks to everyone who contributed to this. I am incredibly stupid so thanks for telling me what I needed to do to get this to work.
+
 ## Features
 - Fully external (no DLL injected)
 - Executes lua code
@@ -37,6 +39,8 @@ Was not intended for actual usage but instead a fun project.
 
 TODO:
 - Add custom functions
+- Add address dumper
+- Make UI using Tauri or Electron for funny
 - ???
 
 # Prerequisites
