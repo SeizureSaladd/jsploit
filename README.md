@@ -35,7 +35,7 @@ HUGE thanks to everyone who contributed to this. I am incredibly stupid so thank
 
 ## Features
 - Fully external (no DLL injected)
-- Executes lua code
+- ~~Executes lua code~~
 - Luau compilation and Luau bytecode compression
 - Written in language not meant for this
 
