@@ -23,6 +23,8 @@
 ---
 
 # jsploit
+**doesn't work as of now just decided to make public bc funny**
+
 A node.js UWP Roblox exploit written in JavaScript for maximum comedic effect.
 
 Based off of [uwp_executor](https://github.com/Spoorloos/uwp_executor/tree/main)
