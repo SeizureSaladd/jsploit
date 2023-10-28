@@ -1,0 +1,15 @@
+{
+  "name": "jsploit",
+  "version": "1.0.0",
+  "description": "what the actual hell",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "seizuresalad",
+  "license": "ISC",
+  "dependencies": {
+    "memoryjs": "^3.5.1"
+  }
+}
